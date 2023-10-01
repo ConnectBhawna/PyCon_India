@@ -48,8 +48,7 @@ if you want to edit those images to customize them further try:
 <b>Dependancies:</b> Pygame, Random, Python 3.9
 <br>
 
-<b>PPT Link </b>
-<br>
-![For reference](https://www.canva.com/design/DAFunBHgFuM/hsTAPiJDWfmHj5arGHyBbg/view?utm_content=DAFunBHgFuM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<b>PPT Link : </b>
+: https://www.canva.com/design/DAFunBHgFuM/hsTAPiJDWfmHj5arGHyBbg/view?utm_content=DAFunBHgFuM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 <br>
 <br>
